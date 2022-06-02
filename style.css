@@ -62,12 +62,12 @@ h4{
 
   @media screen and (max-width: 840px){
     .input{
-      width: 35%;
+      width: 65%;
     }
 
     @media screen and (max-width: 450px){
         .input{
-          width: 45%;
+          width: 75%;
         }
       }
   } 
